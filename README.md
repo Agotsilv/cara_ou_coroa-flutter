@@ -1,16 +1,8 @@
-# cara_ou_coroa
+# Cara ou Coroa
 
-A new Flutter project.
+Projeto Desenvolvido em Flutter para estudo, usando Navigatoor
 
-## Getting Started
+## Preview
+<a href="https://imgur.com/2Ck64fy"><img src="https://i.imgur.com/2Ck64fy.jpg" title="source: imgur.com" style="width: 250px;"/></a>
+<a href="https://imgur.com/hubugxy"><img src="https://i.imgur.com/hubugxy.jpg" title="source: imgur.com" style="width: 250px;"  /></a>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
